@@ -8,10 +8,19 @@ h1{
 li{
   font-family: inherit;
   font-size: 30px;
-  color: black;
+  color: skyblue;
+  text-shadow: 2px 1px  black;
 }
 body{
   background-image: url("http://pic.lvmama.com/uploads/pc/place2/2016-09-14/9aab9bb7-2593-4ca6-8c5a-31355443aebc.jpg");
   background-size: cover;
 
+}
+h2 {
+  text-align: center;
+  color: white;
+}
+ul {
+  font-style: italic;
+  font-family: cursive;
 }
